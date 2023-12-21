@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "fa3e00ba7d960032",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d992263825d67e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "056cc5529ade5dfa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33552f288711a8ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbca5382517e0962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760aca2dcae38bc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cc7bd54e1a5d6f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4977e5fb6d130cb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c28c4ae79e7c019b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eaa108744d2fcc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869d304221d955f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da01125eb61c1398",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a9383a159534dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "028a6912bc478e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "외전 02. 한눈에 보는 딥러닝 기초.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "760aca2dcae38bc7",
+  "lastOpenFiles": [
+    "외전 02. 한눈에 보는 딥러닝 기초.md",
+    "05. torch.optim.md",
+    "04. torch.nn.md",
+    "03. Dataset, DataLoader.md",
+    "02. Autograd.md",
+    "01. Tensor.md",
+    "image/image_03.png",
+    "외전 01. Dezero.md",
+    "image/image_02.png",
+    "image/image_01.png",
+    "image",
+    "Excalidraw/Drawing 2023-12-15 16.00.19.excalidraw.md",
+    "Excalidraw"
+  ]
+}
