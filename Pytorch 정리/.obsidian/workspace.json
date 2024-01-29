@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "056cc5529ade5dfa",
+            "id": "0bf073f1ef171890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Tensor.md",
+                "file": "Pytorch 이론/01. Tensor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abff591bd8ddfac6",
+            "id": "b248b878bb92066a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. 딥러닝의 흐름.md",
+                "file": "딥러닝 개념/02_2. CNN에 추가적인 사항.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "877602f7ce143978",
+            "id": "81faf67925a70801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "텐초의 파이토치 딥러닝 특강/01. 손실함수의 올바른 사용법.md",
+                "file": "딥러닝 개념/02_1. CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7e1d8304fefaa96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝 개념/02_1. CNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "텐초의 파이토치 딥러닝 특강/01. 손실함수의 올바른 사용법.md",
+                "file": "딥러닝 개념/02_1. CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "텐초의 파이토치 딥러닝 특강/01. 손실함수의 올바른 사용법.md",
+                "file": "딥러닝 개념/02_1. CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +162,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "텐초의 파이토치 딥러닝 특강/01. 손실함수의 올바른 사용법.md"
+                "file": "딥러닝 개념/02_1. CNN.md"
               }
             }
+          },
+          {
+            "id": "0d979176cdc97af5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,32 +193,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "877602f7ce143978",
+  "active": "d7e1d8304fefaa96",
   "lastOpenFiles": [
-    "외전 01. Dezero.md",
-    "텐초의 파이토치 딥러닝 특강/image/01.jpg",
-    "텐초의 파이토치 딥러닝 특강/image",
-    "텐초의 파이토치 딥러닝 특강/01. 손실함수의 올바른 사용법.md",
-    "06. 딥러닝의 흐름.md",
-    "image/15.png",
-    "01. Tensor.md",
-    "image/14.png",
-    "image/13.png",
-    "image/12.png",
-    "image/11.png",
-    "image/05.png",
-    "02. Autograd.md",
-    "image/02.png",
-    "image/01.png",
-    "image/03.png",
-    "05. torch.optim.md",
-    "텐초의 파이토치 딥러닝 특강/Chapter1",
-    "텐초의 파이토치 딥러닝 특강",
-    "03. Dataset, DataLoader.md",
-    "외전 02. 한눈에 보는 딥러닝 기초.md",
-    "04. torch.nn.md",
-    "image",
+    "프로젝트 하면서 발견한 것들/CDPRs의 케이블 자코비안 구하는 코드.md",
+    "프로젝트 하면서 발견한 것들/image/02.png",
+    "프로젝트 하면서 발견한 것들/image/01.png",
+    "프로젝트 하면서 발견한 것들/image",
+    "딥러닝 개념/01. 손실함수의 올바른 사용법.md",
+    "딥러닝 개념/02_1. CNN.md",
+    "프로젝트 하면서 발견한 것들",
+    "딥러닝 개념/04. 배치 정규화.md",
+    "딥러닝 개념/image/26.png",
+    "Pytorch 이론/01. Tensor.md",
+    "딥러닝 개념/03. tqdm.md",
+    "딥러닝 개념/02_2. CNN에 추가적인 사항.md",
+    "딥러닝 개념/02_3. ResNet.md",
     "Excalidraw/Drawing 2023-12-15 16.00.19.excalidraw.md",
+    "Pytorch 이론/02. Autograd.md",
+    "Pytorch 이론/외전 01. Dezero.md",
+    "Pytorch 이론/05. torch.optim.md",
+    "Pytorch 이론",
+    "Pytorch 이론/06. 딥러닝의 흐름.md",
+    "Pytorch 이론/03. Dataset, DataLoader.md",
+    "딥러닝 개념/image/25.png",
+    "딥러닝 개념/image/24.png",
+    "딥러닝 개념/image/23.png",
+    "딥러닝 개념/image/22.png",
+    "딥러닝 개념/image/21.png",
+    "딥러닝 개념/image/20.png",
+    "딥러닝 개념/image/19.png",
+    "딥러닝 개념/image",
+    "텐초의 파이토치 딥러닝 특강/Chapter1",
+    "딥러닝 개념",
+    "외전 02. 한눈에 보는 딥러닝 기초.md",
+    "Pytorch 이론/04. torch.nn.md",
+    "Pytorch 이론/image",
     "Excalidraw"
   ]
 }
