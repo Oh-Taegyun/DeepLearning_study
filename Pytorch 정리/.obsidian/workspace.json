@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9d992263825d67e1",
+        "id": "c0bb7b4e3f496bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf073f1ef171890",
+            "id": "65c51671b3a7da75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch 이론/01. Tensor.md",
+                "file": "2. 강화학습 개념/02. 밴디트 문제 - 비정상 문제.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b248b878bb92066a",
+            "id": "622459c558b734d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝 개념/02_2. CNN에 추가적인 사항.md",
+                "file": "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81faf67925a70801",
+            "id": "0b90d1116de3928c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝 개념/02_1. CNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7e1d8304fefaa96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "딥러닝 개념/02_1. CNN.md",
+                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝 개념/02_1. CNN.md",
+                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝 개념/02_1. CNN.md",
+                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝 개념/02_1. CNN.md"
+                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md"
               }
             }
           },
@@ -193,41 +181,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e1d8304fefaa96",
+  "active": "0b90d1116de3928c",
   "lastOpenFiles": [
-    "프로젝트 하면서 발견한 것들/CDPRs의 케이블 자코비안 구하는 코드.md",
-    "프로젝트 하면서 발견한 것들/image/02.png",
-    "프로젝트 하면서 발견한 것들/image/01.png",
-    "프로젝트 하면서 발견한 것들/image",
-    "딥러닝 개념/01. 손실함수의 올바른 사용법.md",
-    "딥러닝 개념/02_1. CNN.md",
-    "프로젝트 하면서 발견한 것들",
-    "딥러닝 개념/04. 배치 정규화.md",
-    "딥러닝 개념/image/26.png",
-    "Pytorch 이론/01. Tensor.md",
-    "딥러닝 개념/03. tqdm.md",
-    "딥러닝 개념/02_2. CNN에 추가적인 사항.md",
-    "딥러닝 개념/02_3. ResNet.md",
-    "Excalidraw/Drawing 2023-12-15 16.00.19.excalidraw.md",
-    "Pytorch 이론/02. Autograd.md",
-    "Pytorch 이론/외전 01. Dezero.md",
+    "2. 강화학습 개념/02. 밴디트 문제 - 비정상 문제.md",
+    "프로젝트 하면서 발견한 것들/2. clone의 중요성.md",
     "Pytorch 이론/05. torch.optim.md",
-    "Pytorch 이론",
-    "Pytorch 이론/06. 딥러닝의 흐름.md",
-    "Pytorch 이론/03. Dataset, DataLoader.md",
-    "딥러닝 개념/image/25.png",
-    "딥러닝 개념/image/24.png",
-    "딥러닝 개념/image/23.png",
-    "딥러닝 개념/image/22.png",
-    "딥러닝 개념/image/21.png",
-    "딥러닝 개념/image/20.png",
-    "딥러닝 개념/image/19.png",
-    "딥러닝 개념/image",
-    "텐초의 파이토치 딥러닝 특강/Chapter1",
-    "딥러닝 개념",
-    "외전 02. 한눈에 보는 딥러닝 기초.md",
+    "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
+    "2. 강화학습 개념/03_2. MDP 예제.md",
+    "2. 강화학습 개념/image/Pasted image 20240302031052.png",
+    "2. 강화학습 개념/image/Pasted image 20240302024934.png",
+    "2. 강화학습 개념/image/Pasted image 20240302024511.png",
+    "2. 강화학습 개념/image/Pasted image 20240302011453.png",
+    "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
+    "2. 강화학습 개념/image/Pasted image 20240302023913.png",
+    "2. 강화학습 개념/image/Pasted image 20240302023640.png",
+    "2. 강화학습 개념/image/Pasted image 20240302023224.png",
+    "2. 강화학습 개념/image/Pasted image 20240302023140.png",
+    "2. 강화학습 개념/image/Pasted image 20240302021826.png",
+    "2. 강화학습 개념/image/Pasted image 20240302020908.png",
+    "2. 강화학습 개념/01. 밴디트 문제 - 정상 문제.md",
+    "2. 강화학습 개념/00. 강화학습에 쓰이는 수식.md",
+    "2. 강화학습 개념/image",
+    "1. CNN LSTM 개념/11_3. Pytorch LSTM.md",
+    "2. 강화학습 개념",
+    "1. CNN LSTM 개념/09_1_3. Pytorch RNN.md",
+    "1. CNN LSTM 개념/09_1_1. RNN.md",
+    "1. CNN LSTM 개념/13_1. seq2seq.md",
+    "1. CNN LSTM 개념/13_2. seq2seq 장난감 문제.md",
+    "1. CNN LSTM 개념/14. seq2seq 어텐션.md",
+    "1. CNN LSTM 개념/12. GRU.md",
+    "1. CNN LSTM 개념/11_2. LSTM의 다양한 기술.md",
+    "1. CNN LSTM 개념/09_3. RNN 예시.md",
+    "1. CNN LSTM 개념/10. 언어 모델의 평가.md",
+    "1. CNN LSTM 개념/09_5 Embedding 계층.md",
+    "1. CNN LSTM 개념/09_4. RNN의 문제점.md",
+    "1. CNN LSTM 개념/09_1_2. 밑바닥부터 구현하는 RNN.md",
+    "1. CNN LSTM 개념/11_1. LSTM.md",
+    "15. 어텐션.md",
+    "1. CNN LSTM 개념/07_8. CBOW 모델 평가.md",
+    "Pytorch 이론/01. Tensor.md",
     "Pytorch 이론/04. torch.nn.md",
-    "Pytorch 이론/image",
-    "Excalidraw"
+    "1. CNN LSTM 개념/image2",
+    "프로젝트 하면서 발견한 것들/image",
+    "프로젝트 하면서 발견한 것들",
+    "Pytorch 이론",
+    "1. CNN LSTM 개념/image",
+    "텐초의 파이토치 딥러닝 특강/Chapter1",
+    "1. CNN LSTM 개념",
+    "Pytorch 이론/image"
   ]
 }
