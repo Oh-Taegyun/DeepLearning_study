@@ -4,47 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c0bb7b4e3f496bd5",
+        "id": "ccdd3d4804abe21a",
         "type": "tabs",
         "children": [
           {
-            "id": "65c51671b3a7da75",
+            "id": "887492a76126a37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 강화학습 개념/02. 밴디트 문제 - 비정상 문제.md",
+                "file": "프로젝트 하면서 발견한 것들/12. 매니폴드 가설.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "622459c558b734d3",
+            "id": "708e39f36e9e0098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b90d1116de3928c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
-                "mode": "source",
-                "source": false
+                "file": "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
+                "file": "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
+                "file": "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md"
+                "file": "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png"
               }
             }
           },
@@ -181,46 +167,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b90d1116de3928c",
+  "active": "760aca2dcae38bc7",
   "lastOpenFiles": [
-    "2. 강화학습 개념/02. 밴디트 문제 - 비정상 문제.md",
-    "프로젝트 하면서 발견한 것들/2. clone의 중요성.md",
-    "Pytorch 이론/05. torch.optim.md",
-    "프로젝트 하면서 발견한 것들/3. 활성화 함수의 중요성.md",
-    "2. 강화학습 개념/03_2. MDP 예제.md",
-    "2. 강화학습 개념/image/Pasted image 20240302031052.png",
-    "2. 강화학습 개념/image/Pasted image 20240302024934.png",
-    "2. 강화학습 개념/image/Pasted image 20240302024511.png",
-    "2. 강화학습 개념/image/Pasted image 20240302011453.png",
-    "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
-    "2. 강화학습 개념/image/Pasted image 20240302023913.png",
-    "2. 강화학습 개념/image/Pasted image 20240302023640.png",
-    "2. 강화학습 개념/image/Pasted image 20240302023224.png",
-    "2. 강화학습 개념/image/Pasted image 20240302023140.png",
-    "2. 강화학습 개념/image/Pasted image 20240302021826.png",
-    "2. 강화학습 개념/image/Pasted image 20240302020908.png",
-    "2. 강화학습 개념/01. 밴디트 문제 - 정상 문제.md",
-    "2. 강화학습 개념/00. 강화학습에 쓰이는 수식.md",
-    "2. 강화학습 개념/image",
-    "1. CNN LSTM 개념/11_3. Pytorch LSTM.md",
-    "2. 강화학습 개념",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025127.png",
+    "프로젝트 하면서 발견한 것들/13. 머신 러닝 모델 평가.md",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png",
+    "프로젝트 하면서 발견한 것들/12. 매니폴드 가설.md",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403024214.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403022524.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403022433.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403021719.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403021526.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403021411.png",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403021222.png",
+    "프로젝트 하면서 발견한 것들/11. 데이터를 잘잘잘 처리하는 방법.md",
+    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403014823.png",
+    "프로젝트 하면서 발견한 것들/10. k-fold cross-vaildation.md",
     "1. CNN LSTM 개념/09_1_3. Pytorch RNN.md",
+    "1. CNN LSTM 개념/09_4. RNN의 문제점.md",
+    "1. CNN LSTM 개념/09_3. RNN 예시.md",
+    "프로젝트 하면서 발견한 것들/9. 정보의 병목.md",
+    "1. CNN LSTM 개념/07_3. 통계 기반 기법.md",
+    "1. CNN LSTM 개념/07_4. 추론 기반 기법.md",
+    "1. CNN LSTM 개념/07_5. word2vec 보충.md",
+    "1. CNN LSTM 개념/07_2. 시소러스.md",
+    "1. CNN LSTM 개념/07_1. 자연어 단어의 분산 표현.md",
+    "프로젝트 하면서 발견한 것들/8. 도메인이 뭐야.md",
+    "프로젝트 하면서 발견한 것들/7. 전이학습의 종류.md",
+    "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
     "1. CNN LSTM 개념/09_1_1. RNN.md",
+    "1. CNN LSTM 개념/11_3. Pytorch LSTM.md",
+    "1. CNN LSTM 개념/02_2. CNN에 추가적인 사항.md",
+    "1. CNN LSTM 개념/09_1_2. 밑바닥부터 구현하는 RNN.md",
     "1. CNN LSTM 개념/13_1. seq2seq.md",
     "1. CNN LSTM 개념/13_2. seq2seq 장난감 문제.md",
     "1. CNN LSTM 개념/14. seq2seq 어텐션.md",
-    "1. CNN LSTM 개념/12. GRU.md",
-    "1. CNN LSTM 개념/11_2. LSTM의 다양한 기술.md",
-    "1. CNN LSTM 개념/09_3. RNN 예시.md",
-    "1. CNN LSTM 개념/10. 언어 모델의 평가.md",
-    "1. CNN LSTM 개념/09_5 Embedding 계층.md",
-    "1. CNN LSTM 개념/09_4. RNN의 문제점.md",
-    "1. CNN LSTM 개념/09_1_2. 밑바닥부터 구현하는 RNN.md",
-    "1. CNN LSTM 개념/11_1. LSTM.md",
-    "15. 어텐션.md",
-    "1. CNN LSTM 개념/07_8. CBOW 모델 평가.md",
-    "Pytorch 이론/01. Tensor.md",
-    "Pytorch 이론/04. torch.nn.md",
+    "프로젝트 하면서 발견한 것들/6. 데이터 정규화는 매우 중요한 문제이다..md",
+    "1. CNN LSTM 개념/02_1. CNN.md",
+    "2. 강화학습 개념/image",
+    "2. 강화학습 개념",
     "1. CNN LSTM 개념/image2",
     "프로젝트 하면서 발견한 것들/image",
     "프로젝트 하면서 발견한 것들",
