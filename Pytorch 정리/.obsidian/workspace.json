@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "492e4df16ad34d98",
+        "id": "22d8ea5165f3d860",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb342e7503886ee",
+            "id": "e38438d2bf169ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트 하면서 발견한 것들/13. 머신 러닝 모델 평가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c73444cae7845ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. 훈련 성능 향상하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dc17e277db48a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15. 일반화 성능 향상하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22178ca68bf265e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keras 정리/1. 간단한 케라스 문법.md",
+                "file": "2. 강화학습 개념/11_1. 신경망과 Q러닝.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. 일반화 성능 향상하기.md",
+                "file": "2. 강화학습 개념/11_1. 신경망과 Q러닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. 일반화 성능 향상하기.md",
+                "file": "2. 강화학습 개념/11_1. 신경망과 Q러닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. 일반화 성능 향상하기.md"
+                "file": "2. 강화학습 개념/11_1. 신경망과 Q러닝.md"
               }
             }
           },
@@ -193,53 +156,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dc17e277db48a2e",
+  "active": "e38438d2bf169ecb",
   "lastOpenFiles": [
-    "Pasted image 20240414014351.png",
-    "Pasted image 20240414014317.png",
-    "Pasted image 20240414013638.png",
-    "Pasted image 20240414011420.png",
-    "14. 훈련 성능 향상하기.md",
-    "15. 일반화 성능 향상하기.md",
-    "Pasted image 20240414010436.png",
-    "프로젝트 하면서 발견한 것들/13. 머신 러닝 모델 평가.md",
-    "프로젝트 하면서 발견한 것들/12. 매니폴드 가설.md",
-    "프로젝트 하면서 발견한 것들/11. 데이터를 잘잘잘 처리하는 방법.md",
-    "프로젝트 하면서 발견한 것들/10. k-fold cross-vaildation.md",
-    "1. CNN LSTM 개념/09_3. RNN 예시.md",
-    "1. CNN LSTM 개념/09_1_2. 밑바닥부터 구현하는 RNN.md",
-    "1. CNN LSTM 개념/09_1_1. RNN.md",
-    "1. CNN LSTM 개념/11_1. LSTM.md",
-    "1. CNN LSTM 개념/11_2. LSTM의 다양한 기술.md",
-    "1. CNN LSTM 개념/11_3. Pytorch LSTM.md",
-    "Keras 정리/1. 간단한 케라스 문법.md",
-    "1. CNN LSTM 개념/09_4. RNN의 문제점.md",
-    "Keras 정리",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025127.png",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403025424.png",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403024214.png",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403022524.png",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403022433.png",
-    "프로젝트 하면서 발견한 것들/image/Pasted image 20240403021719.png",
-    "1. CNN LSTM 개념/09_1_3. Pytorch RNN.md",
-    "프로젝트 하면서 발견한 것들/9. 정보의 병목.md",
-    "1. CNN LSTM 개념/07_3. 통계 기반 기법.md",
-    "1. CNN LSTM 개념/07_4. 추론 기반 기법.md",
-    "1. CNN LSTM 개념/07_5. word2vec 보충.md",
-    "1. CNN LSTM 개념/07_2. 시소러스.md",
-    "1. CNN LSTM 개념/07_1. 자연어 단어의 분산 표현.md",
-    "프로젝트 하면서 발견한 것들/8. 도메인이 뭐야.md",
-    "프로젝트 하면서 발견한 것들/7. 전이학습의 종류.md",
+    "2. 강화학습 개념/09_1. 몬테카를로법.md",
+    "2. 강화학습 개념/11_1. 신경망과 Q러닝.md",
+    "2. 강화학습 개념/08_2. 반복적 정책 평가.md",
+    "2. 강화학습 개념/08_3. 그리드 월드 문제.md",
+    "2. 강화학습 개념/10_6. Q 러닝은 어떻게 진행되는가.md",
+    "2. 강화학습 개념/10_5. Q 러닝.md",
+    "2. 강화학습 개념/01. 밴디트 문제 - 정상 문제.md",
+    "2. 강화학습 개념/10_2. SARSA.md",
+    "2. 강화학습 개념/10_1. TD법, MC법, DP법.md",
+    "2. 강화학습 개념/08_4. 정책 반복법.md",
+    "2. 강화학습 개념/10_7. 분포 모델과 샘플 모델.md",
+    "2. 강화학습 개념/08_1. 동적 프로그래밍.md",
+    "2. 강화학습 개념/09_5. 왜 상태 가치 함수는 안좋은가.md",
+    "2. 강화학습 개념/05. 행동 가치 함수 (Q함수)와 벨만 방정식.md",
+    "2. 강화학습 개념/04_2. 벨만 방정식 예제.md",
+    "2. 강화학습 개념/04_1. 벨만 방정식.md",
+    "2. 강화학습 개념/02. 밴디트 문제 - 비정상 문제.md",
     "2. 강화학습 개념/03_1. 마르코프 결정 과정 (MDP).md",
-    "1. CNN LSTM 개념/02_2. CNN에 추가적인 사항.md",
+    "2. 강화학습 개념/06. 벨만 최적 방정식.md",
+    "2. 강화학습 개념/10_4. 오프-정책 SARSA.md",
+    "2. 강화학습 개념/image/Pasted image 20240626192252.png",
+    "2. 강화학습 개념/image/Pasted image 20240626192158.png",
+    "2. 강화학습 개념/09_3. 몬테카를로법으로 정책 제어하기.md",
+    "2. 강화학습 개념/09_2. 몬테카를로법 구현.md",
+    "2. 강화학습 개념/03_2. MDP 예제.md",
+    "2. 강화학습 개념/image/Pasted image 20240626165929.png",
+    "2. 강화학습 개념/image/Pasted image 20240626165917.png",
+    "2. 강화학습 개념/image/Pasted image 20240626165901.png",
+    "2. 강화학습 개념/image/Pasted image 20240626165257.png",
+    "2. 강화학습 개념/00. 강화학습에 쓰이는 수식.md",
+    "2. 강화학습 개념/09_4. 오프-정책과 중요도 샘플링.md",
+    "2. 강화학습 개념/image/Pasted image 20240626161857.png",
+    "2. 강화학습 개념/08_5. 정책 반복법 구현.md",
+    "2. 강화학습 개념/image/Pasted image 20240626152417.png",
+    "2. 강화학습 개념/image/Pasted image 20240626152404.png",
+    "2. 강화학습 개념/image/Pasted image 20240626151819.png",
+    "2. 강화학습 개념/코드 정리.hwp",
+    "2. 강화학습 개념/00. 코드 정리.$$$",
+    "2. 강화학습 개념/00. 코드 정리.hwp",
+    "2. 강화학습 개념/새 한컴오피스 한글 문서.hwp",
+    "Keras 정리",
     "2. 강화학습 개념/image",
     "2. 강화학습 개념",
     "1. CNN LSTM 개념/image2",
-    "프로젝트 하면서 발견한 것들/image",
-    "프로젝트 하면서 발견한 것들",
-    "Pytorch 이론",
-    "1. CNN LSTM 개념/image",
-    "텐초의 파이토치 딥러닝 특강/Chapter1",
-    "1. CNN LSTM 개념"
+    "그 외 다양한 딥러닝 지식들/image",
+    "그 외 다양한 딥러닝 지식들"
   ]
 }
